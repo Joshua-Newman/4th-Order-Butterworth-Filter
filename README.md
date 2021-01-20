@@ -4,6 +4,6 @@ Embedded Systems Computation
 
 Doctor Jay Adams
 
-University of Akron Fall 2020
+University of Akron, Fall 2020
 
 
